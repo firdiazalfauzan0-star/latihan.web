@@ -1,0 +1,21 @@
+*{
+    font-family: Arial, sans-serif;
+    background-color: black;
+    border-radius: 10px;
+    color: rgb(133, 24, 24);
+    margin: 0;
+    text-align: center;
+ }
+
+header {
+    background-color: rgb(15, 28, 102);
+    color: blue;
+    padding: 30px;
+}
+
+section {
+    background-color: rgb(54, 50, 50);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
